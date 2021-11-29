@@ -1,6 +1,8 @@
 # Brian Via 
 
-Hey there 👋🏻 I'm Brian. I'm a software engineer 👨🏻‍💻, dad 👨‍👩‍👧, and breakfast bagel enthusiast 🥯
+Hey there 👋🏻 I'm Brian. I'm a software engineer 👨🏻‍💻, dad 👨‍👩‍👧, and breakfast bagel enthusiast 🥯 
+
+I live in the Washington, DC metro area 🏙️
 
 🐦 [@Brian_Via](https://twitter.com/Brian_Via)
 
