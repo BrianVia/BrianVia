@@ -51,7 +51,7 @@ I'm a Senior Fullstack Software Engineer at Clearcover, an insurance-tech startu
 - Databases
   
   
-## What I'm Interested In
+## ⚙️ What I'm Interested In
 - AWS and other cloud providers
 - Distributed Systems and Services
 - DevOps & Site Reliablity Engineering
