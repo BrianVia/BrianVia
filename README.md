@@ -34,6 +34,7 @@ I'm a Senior Fullstack Software Engineer at Clearcover, an insurance-tech startu
 ##### 😎 Proficient with:
 - TypeScript/JavaScript
 - Angular
+- React
 - NGRX/Redux
 - Monorepos & NX
 - Cypress & Jest
@@ -41,14 +42,14 @@ I'm a Senior Fullstack Software Engineer at Clearcover, an insurance-tech startu
 - Frontend Infrastructure
 
 #### ☕ Comfortable with:
-- React
+- Kotlin (and getting better every day! ⚡)
 - NodeJS
 - Bash
 - YAML
 
 #### 📚 Getting better with:
 - Functional Programming
-- Databases
+- Databases (Postgres mostly)
   
   
 ## ⚙️ What I'm Interested In
