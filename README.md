@@ -43,17 +43,14 @@ I'm a Senior Fullstack Software Engineer at Clearcover, an insurance-tech startu
 
 #### ☕ Comfortable with:
 - Kotlin (and getting better every day! ⚡)
+- Databases (Postgres mostly)
 - NodeJS
 - Bash
 - YAML
 
 #### 📚 Getting better with:
-- Functional Programming
-- Databases (Postgres mostly)
+- Astro
+- Backend Distributed Systems & Architecture
   
-  
-## ⚙️ What I'm Interested In
-- AWS and other cloud providers
-- Distributed Systems and Services
-- DevOps & Site Reliablity Engineering
-- Web3 & Blockchain Applications
+## ⚙️ What I'm Interested In (That I'm Not Doing Currently)
+- Site Reliablity Engineering
