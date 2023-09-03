@@ -10,7 +10,7 @@ I live in the Washington, DC metro area 🏙️
 
 🌎 [brianvia.dev](https://brianvia.dev)
 
-** I started paternity leave on July 31st, 2023, so if you're wondering why there's a big drop off in GitHub contributions, that's why 😅
+** I started paternity leave on July 31st, 2023, so if you're wondering why there's a big drop off in GitHub contributions, that's why ** 😅
 
 # 👔 My Day Job
 I'm a Senior Fullstack Software Engineer at Clearcover, an insurance-tech startup currently pre-IPO.
